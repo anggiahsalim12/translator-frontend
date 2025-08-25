@@ -1,0 +1,9 @@
+
+:root{
+  --bg:#f8fafc;--card:#fff;--muted:#6b7280;
+}
+body{background:var(--bg);color:#111827;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;}
+.card{border-radius:.6rem;border:1px solid #e6eef6}
+textarea{resize:vertical}
+img.card-img-top{object-fit:cover;height:120px;background:#eef2f7}
+pre#log{white-space:pre-wrap}
